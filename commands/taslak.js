@@ -5,7 +5,7 @@ module.exports = {
 
 		const { author, guild, channel } = message;
 
-		message.reply({ content: `Hello! ${author.tag}` })
+		message.reply({ content: `Merhaba! ${author.tag}` })
 
 
 	}
